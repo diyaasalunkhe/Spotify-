@@ -1,1 +1,1 @@
-# Spotify-This is a Spotify login page made using php, html, MySql
+# Spotify- login page using php, html, MySql
